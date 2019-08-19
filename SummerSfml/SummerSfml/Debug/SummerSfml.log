@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ailish\source\repos\summersfml\summersfml\main.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ailish\source\repos\summersfml\summersfml\main.cpp(352): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ailish\source\repos\summersfml\summersfml\main.cpp(125): warning C4715: 'noTilePlacement': not all control paths return a value
+c:\users\ailish\source\repos\summersfml\summersfml\main.cpp(73): warning C4715: 'check': not all control paths return a value
+  SummerSfml.vcxproj -> C:\Users\Ailish\source\repos\SummerSfml\Debug\SummerSfml.exe
